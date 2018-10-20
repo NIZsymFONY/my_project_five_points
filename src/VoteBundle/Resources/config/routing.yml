@@ -1,0 +1,3 @@
+vote_homepage:
+    path:     /voting/
+    defaults: { _controller: VoteBundle:Default:index }
